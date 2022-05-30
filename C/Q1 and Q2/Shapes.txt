@@ -1,0 +1,8 @@
+circle,2.5
+rectangle,2.5,4.0
+circle,3.5
+rectangle,4.5,7.0
+circle,4.0
+rectangle,3.0,2.5
+circle,6.0
+
